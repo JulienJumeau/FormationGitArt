@@ -1,1 +1,1 @@
-toto25 from master
+toto25 from branch2
